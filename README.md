@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me
-- GitHub: 
+- GitHub: https://github.com/Nishanth0604-MD
 - LinkedIn: www.linkedin.com/in/nishanth-m-61186436a
 
 ---
