@@ -1,39 +1,25 @@
-# Hi, I'm Nishanth 👋
+# Nishanth MD 👋🏻
 
-🎓 Electronics and Communication Engineering undergraduate  
-💻 Programming Languages: C, Python  
-☁️ Currently learning Cloud Computing  
-🔧 Interested in embedded systems and real-world engineering solutions  
+Electronics and Communication Engineering undergraduate  
+Programming Languages: C, Python  
+Currently learning Cloud Computing  
+Interested in embedded systems and practical engineering solutions
 
----
-
-## 🛠️ Skills
+## Skills
 - C Programming
 - Python
-- Cloud Computing (Fundamentals)
-- Problem Solving
-- Electronics & Communication Fundamentals
+- Cloud Computing Fundamentals
+- Electronics & Communication Basics
 
----
+## Projects
+- Smart Rail Livestock Detection and Alert System
+- Mini projects in electronics and automation
 
-## 📂 Projects
-- Smart Rail Livestock Detection and Alert System  
-- Mini projects in electronics and automation   
-
----
-
-## 🌱 Currently Learning
-- Cloud Computing concepts
-- Python for automation and scripting
+## Learning Focus
+- Cloud infrastructure basics
+- Python scripting
 - System-level problem solving
 
----
 
-## 📫 Connect with Me
-- GitHub: https://github.com/Nishanth0604-MD
-- LinkedIn: www.linkedin.com/in/nishanth-m-61186436a
 
----
-
-⭐ Feel free to explore my repositories and follow my learning journey.
 
